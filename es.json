@@ -35,12 +35,12 @@
           }
         }
       },
-        "0ceee367e7f2d766dbf984c33d59239dedb1953e270936256a8ff1ea5dbebdd3": {
+        "f1bb1da88469bf381f592849dbe55d36fce27f88e029b9a22638dbe66a0cf5e2": {
         "2026-02-10T23:33:35.115Z": {
           "name": "TestAUth3",
           "description": "lot of tests",
           "token": {
-            "category": "0ceee367e7f2d766dbf984c33d59239dedb1953e270936256a8ff1ea5dbebdd3",
+            "category": "f1bb1da88469bf381f592849dbe55d36fce27f88e029b9a22638dbe66a0cf5e2",
             "symbol": "TAU3",
             "decimals": 1
           },
