@@ -1,0 +1,25 @@
+{
+    "$schema": "https://cashtokens.org/bcmr-v2.schema.json",
+    "version": { "major": 1, "minor": 0, "patch": 0 },
+    "latestRevision": "2026-02-03T05:07:35.115Z",
+    "registryIdentity": {
+      "name": "example bcmr",
+      "description": "example bcmr for tokens on chipnet"
+  },
+    "identities": {
+      "d70394b5ead15815f9db7c65816566c48b55028b52b8fd0cd9fd27097e9c7718": {
+        "2026-02-10T23:33:35.115Z": {
+          "name": "TestAUth",
+          "description": "lot of tests",
+          "token": {
+            "category": "d70394b5ead15815f9db7c65816566c48b55028b52b8fd0cd9fd27097e9c7718",
+            "symbol": "TAU",
+            "decimals": 1
+          },
+          "uris": {
+            "icon": "https://raw.githubusercontent.com/anderthetable/example_bcmr/main/TEST.svg"
+          }
+        }
+      }
+    }
+}
