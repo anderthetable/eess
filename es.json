@@ -76,6 +76,20 @@
             "icon": "https://raw.githubusercontent.com/anderthetable/example_bcmr/main/TEST.svg"
           }
         }
+      },
+        "fc949349e8ced3244a80c62eabdeeb7f8330cfdb07304198c32c97d51a3b17fb": {
+        "2026-02-10T23:33:35.115Z": {
+          "name": "TestAUth6",
+          "description": "lot of tests",
+          "token": {
+            "category": "fc949349e8ced3244a80c62eabdeeb7f8330cfdb07304198c32c97d51a3b17fb",
+            "symbol": "TAU6",
+            "decimals": 1
+          },
+          "uris": {
+            "icon": "https://raw.githubusercontent.com/anderthetable/example_bcmr/main/TEST.svg"
+          }
+        }
       }
     }
 }
