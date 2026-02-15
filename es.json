@@ -90,6 +90,20 @@
             "icon": "https://raw.githubusercontent.com/anderthetable/example_bcmr/main/TEST.svg"
           }
         }
+      },
+    "affcec666d4f0afcc84f58ac5e9804c2df1995b339f450316864edd9bcd37c92": {
+        "2026-02-10T23:33:35.115Z": {
+          "name": "TestAUth7",
+          "description": "lot of tests",
+          "token": {
+            "category": "affcec666d4f0afcc84f58ac5e9804c2df1995b339f450316864edd9bcd37c92",
+            "symbol": "TAU7",
+            "decimals": 0
+          },
+          "uris": {
+            "icon": "https://raw.githubusercontent.com/anderthetable/example_bcmr/main/TEST.svg"
+          }
+        }
       }
     }
 }
